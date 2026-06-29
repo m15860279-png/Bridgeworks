@@ -1,88 +1,44 @@
-BridgeWorks Connecting Talent. Creating Opportunities. Find the Right Talent. Find the Right Opportunity. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BridgeWorks - Freelancer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-BridgeWorks connects skilled freelancers with trusted clients around the world. Our mission is to make hiring simple, secure, and fair while creating opportunities for everyone.
+<header>
+    <nav class="navbar">
+        <h1 class="logo">BridgeWorks</h1>
+    </nav>
+</header>
 
-[Join as a Freelancer]
+<section class="hero">
+    <h2>Join as a Freelancer</h2>
+    <p>Showcase your skills, connect with clients, and grow your career.</p>
+</section>
 
-[Hire a Freelancer]
+<section>
+    <h2>Freelancer Registration</h2>
 
-How BridgeWorks Works For Clients Submit your job requirements. We review your request. We match you with qualified freelancers. Start working with confidence. For Freelancers Join the BridgeWorks community. Complete your profile. Get matched with suitable clients. Build your career and earn more. Why Choose BridgeWorks? 
+    <form>
+        <input type="text" placeholder="Full Name" required><br><br>
 
-✅ Verified freelancers
+        <input type="email" placeholder="Email Address" required><br><br>
 
-✅ Trusted clients
+        <input type="text" placeholder="Primary Skill (e.g. Google Ads)" required><br><br>
 
-✅ Fast matching
+        <textarea placeholder="Tell clients about yourself" rows="6"></textarea><br><br>
 
-✅ Dedicated support
+        <button class="btn">Create Freelancer Account</button>
+    </form>
+</section>
 
-✅ Fair and transparent fees
+<footer>
+    <p>© 2026 BridgeWorks. All Rights Reserved.</p>
+</footer>
 
-Our Mission 
-
-To connect talented professionals with businesses worldwide while creating life-changing opportunities and supporting people in need through community impact initiatives.
-
-Join BridgeWorks Today I'm Looking for Work 
-
-Join the Freelancer Community
-
-I Want to Hire 
-
-Join the Client Community
-
-Contact 
-
-Telegram: BridgeWorks Official
-
-TikTok: @BridgeWorks
-
-Email: support@bridgeworks.com (add your real email later)
-
-BridgeWorks 
-
-Connecting Talent. Creating Opportunities.
-
-BridgeWorks Connecting Talent. Creating Opportunities. Find the Right Talent. Find the Right Opportunity. 
-
-BridgeWorks connects skilled freelancers with trusted clients around the world. Our mission is to make hiring simple, secure, and fair while creating opportunities for everyone.
-
-[Join as a Freelancer]
-
-[Hire a Freelancer]
-
-How BridgeWorks Works For Clients Submit your job requirements. We review your request. We match you with qualified freelancers. Start working with confidence. For Freelancers Join the BridgeWorks community. Complete your profile. Get matched with suitable clients. Build your career and earn more. Why Choose BridgeWorks? 
-
-✅ Verified freelancers
-
-✅ Trusted clients
-
-✅ Fast matching
-
-✅ Dedicated support
-
-✅ Fair and transparent fees
-
-Our Mission 
-
-To connect talented professionals with businesses worldwide while creating life-changing opportunities and supporting people in need through community impact initiatives.
-
-Join BridgeWorks Today I'm Looking for Work 
-
-Join the Freelancer Community
-
-I Want to Hire 
-
-Join the Client Community
-
-Contact 
-
-Telegram: BridgeWorks Official
-
-TikTok: @BridgeWorks
-
-Email: support@bridgeworks.com (add your real email later)
-
-BridgeWorks 
-
-Connecting Talent. Creating Opportunities.
+</body>
+</html>
 
