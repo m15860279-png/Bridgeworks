@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact BridgeWorks</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<nav class="navbar">
+<h1 class="logo">BridgeWorks</h1>
+</nav>
+</header>
+
+<section class="hero">
+<h2>Contact Us</h2>
+<p>We'd love to hear from you.</p>
+</section>
+
+<section>
+
+<h2>Send a Message</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name" required><br><br>
+
+<input type="email" placeholder="Your Email" required><br><br>
+
+<textarea rows="6" placeholder="Your Message"></textarea><br><br>
+
+<button class="btn">Send Message</button>
+
+</form>
+
+</section>
+
+<footer>
+<p>© 2026 BridgeWorks. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
